@@ -12,10 +12,7 @@ Simple responsive HTML5/JavaScript D-day counter.<br><br>
 * Counter times
 * Change favicon(.ico) or background img(.jpg .png)
 * More functions can be added if you need.
-### Epoch time convertor
-* <https://www.epochconverter.com/>
-* <http://www.unixtimestamp.com/index.php>
-#### counter time setting guide<br>
+### Counter time setting guide(index.php)
 Fix time value just like the code below...
 ```html
 <script type="text/javascript">
@@ -26,6 +23,9 @@ Fix time value just like the code below...
     });
 </script>
 ```
-##### Original Plugin
+#### Epoch time convertor
+* <https://www.epochconverter.com/>
+* <http://www.unixtimestamp.com/index.php>
+###### Original Plugin
 This awesome jQuery plugin is developed by PragmaticMates. 
 For more Advanced Usages, please check the demo page or visit the [official website](http://www.jqueryscript.net/time-clock/Modern-Circular-jQuery-Countdown-Timer-Plugin-Final-Countdown.html).
