@@ -67,7 +67,7 @@ Fix **borderColor(hex)** and **borderWidth** value...
 2. Just upload your new **"favicon.ico"** and **"background.jpg"** file.
 ```css
 html {
-  background-image: url('background.jpg');
+  background-image: url('background.jpg'); // background img file route
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
