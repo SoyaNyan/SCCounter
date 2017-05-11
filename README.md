@@ -15,3 +15,6 @@ Simple responsive HTML5/JavaScript D-day counter.<br><br>
 ### Epoch time convertor
 * <https://www.epochconverter.com/>
 * <http://www.unixtimestamp.com/index.php>
+#### Original Plugin
+This awesome jQuery plugin is developed by PragmaticMates. 
+For more Advanced Usages, please check the demo page or visit the [official website](http://www.jqueryscript.net/time-clock/Modern-Circular-jQuery-Countdown-Timer-Plugin-Final-Countdown.html).
