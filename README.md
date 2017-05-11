@@ -2,6 +2,9 @@
 Simple responsive HTML5/JavaScript D-day counter.<br><br>
 ## Demo Screenshot(desktop)
 ![DEMO IMG](https://github.com/SoyaNyan/SCCounter/blob/master/demo.PNG)
+## Releases now available
+Pre-release version is now availalbe at [release page](https://github.com/SoyaNyan/SCCounter/releases). <br>
+Feek free to give us feedback or comment below if you have any good idea.
 ## How to install
 1. Simply download the project and upload to your hosting directory.
 2. Set counter's start & end time using epoch time convertor(see below).
@@ -75,5 +78,5 @@ In case if you want to use .png file, fix *"style.css"*
 * <https://www.epochconverter.com/>
 * <http://www.unixtimestamp.com/index.php>
 ###### Original Plugin
-This awesome jQuery plugin is developed by PragmaticMates. 
+This awesome jQuery plugin is developed by PragmaticMates. <br>
 For more Advanced Usages, please check the demo page or visit the [official website](http://www.jqueryscript.net/time-clock/Modern-Circular-jQuery-Countdown-Timer-Plugin-Final-Countdown.html).
