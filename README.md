@@ -18,9 +18,9 @@ Simple responsive HTML5/JavaScript D-day counter.<br><br>
 <pre><code>
 <script type="text/javascript">
   $('.countdown').final_countdown({
-    start: '1362139200',
-    end: '1388461320',
-    now: '1387461319'
+    start: '[start time here(epoch)]',
+    end: '[end time here(epoch)]',
+    now: 'new Date().getTime() / 1000' // fixed; automatically get current time from system
     });
 </script>
 </pre></code>
