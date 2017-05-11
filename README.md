@@ -15,6 +15,8 @@ Simple responsive HTML5/JavaScript D-day counter.<br><br>
 ### Epoch time convertor
 * <https://www.epochconverter.com/>
 * <http://www.unixtimestamp.com/index.php>
+** counter time setting guide **
+Fix time value just like the code below...
 ```html
 <script type="text/javascript">
   $('.countdown').final_countdown({
