@@ -1,6 +1,7 @@
 # SCCounter
 Simple responsive HTML5/JavaScript D-day counter.
-<img src="https://github.com/SoyaNyan/SCCounter/blob/master/demo.PNG" />
+<hr/>
+<img src="https://github.com/SoyaNyan/SCCounter/blob/master/demo.PNG" width="80%" />
 ## How to install
 1. Simply download the project and upload to your hosting directory.
 2. Set counter's start & end time using epoch time convertor(see below).
