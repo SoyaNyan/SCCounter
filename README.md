@@ -62,7 +62,7 @@ Fix **borderColor(hex)** and **borderWidth** value...
         }
     }, options);
 ```
-### Change favicon and background image
+### Change favicon and background image(style.css)
 1. Goto *"img"* directory.
 2. Just upload your new **"favicon.ico"** and **"background.jpg"** file.
 ```css
@@ -77,6 +77,6 @@ In case if you want to use .png file, fix **"style.css"**
 #### Epoch time convertor
 * <https://www.epochconverter.com/>
 * <http://www.unixtimestamp.com/index.php>
-###### Original Plugin
+### Original Plugin
 This awesome jQuery plugin is developed by **PragmaticMates**. <br>
 For more Advanced Usages, please check the **demo page** or visit the [**official website**](http://www.jqueryscript.net/time-clock/Modern-Circular-jQuery-Countdown-Timer-Plugin-Final-Countdown.html).
