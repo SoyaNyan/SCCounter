@@ -4,7 +4,7 @@ Simple responsive **HTML5/JavaScript** D-day counter.<br><br>
 ![DEMO IMG](https://github.com/SoyaNyan/SCCounter/blob/master/demo.PNG)
 ## Releases now available
 **Pre-release version** is now availalbe at [**release page**](https://github.com/SoyaNyan/SCCounter/releases). <br>
-Feek free to give us **feedback** or **comment** below if you have any good idea.
+Feel free to give us **feedback** or **comment** below if you have any good idea.
 ### How to install
 1. Simply download the project and upload to your hosting directory.
 2. Set counter's start & end time using epoch time convertor(see below).
