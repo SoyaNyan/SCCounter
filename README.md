@@ -17,9 +17,9 @@ Fix time value just like the code below...
 ```html
 <script type="text/javascript">
   $('.countdown').final_countdown({
-    start: '[start time here(epoch)]',
-    end: '[end time here(epoch)]',
-    now: 'new Date().getTime() / 1000' // fixed; automatically get current time from system
+      start: '[start time here(epoch)]',
+      end: '[end time here(epoch)]',
+      now: 'new Date().getTime() / 1000' // fixed; automatically get current time from system
     });
 </script>
 ```
