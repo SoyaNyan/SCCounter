@@ -15,7 +15,7 @@ Simple responsive HTML5/JavaScript D-day counter.<br><br>
 ### Epoch time convertor
 * <https://www.epochconverter.com/>
 * <http://www.unixtimestamp.com/index.php>
-<pre><code>
+```javascript
 <script type="text/javascript">
   $('.countdown').final_countdown({
     start: '[start time here(epoch)]',
@@ -23,7 +23,7 @@ Simple responsive HTML5/JavaScript D-day counter.<br><br>
     now: 'new Date().getTime() / 1000' // fixed; automatically get current time from system
     });
 </script>
-</pre></code>
+```
 #### Original Plugin
 This awesome jQuery plugin is developed by PragmaticMates. 
 For more Advanced Usages, please check the demo page or visit the [official website](http://www.jqueryscript.net/time-clock/Modern-Circular-jQuery-Countdown-Timer-Plugin-Final-Countdown.html).
