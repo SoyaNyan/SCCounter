@@ -23,6 +23,42 @@ Fix time value just like the code below...
   });
 </script>
 ```
+### Counter style option setting guide()
+Fix borderColor(hex) and borderWidth value...
+```javascript
+// Timer borderColor, borderWidth settings
+    var defaults = $.extend({
+        start: undefined,
+        end: undefined,
+        now: undefined,
+        selectors: {
+            value_seconds: '.clock-seconds .val',
+            canvas_seconds: 'canvas-seconds',
+            value_minutes: '.clock-minutes .val',
+            canvas_minutes: 'canvas-minutes',
+            value_hours: '.clock-hours .val',
+            canvas_hours: 'canvas-hours',
+            value_days: '.clock-days .val',
+            canvas_days: 'canvas-days'
+        },
+        seconds: {
+            borderColor: '#7995D5', // color setting
+            borderWidth: '6' // border weight setting
+        },
+        minutes: {
+            borderColor: '#ACC742', // color setting
+            borderWidth: '6' // border weight setting
+        },
+        hours: {
+            borderColor: '#ECEFCB', // color setting
+            borderWidth: '6' // border weight setting
+        },
+        days: {
+            borderColor: '#FF9900', // color setting
+            borderWidth: '6' // border weight setting
+        }
+    }, options);
+```
 #### Epoch time convertor
 * <https://www.epochconverter.com/>
 * <http://www.unixtimestamp.com/index.php>
