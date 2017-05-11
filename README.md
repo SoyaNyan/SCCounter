@@ -77,7 +77,7 @@ In case if you want to use .png file, fix **"style.css"**
 #### Epoch time convertor
 * <https://www.epochconverter.com/>
 * <http://www.unixtimestamp.com/index.php>
-<hr>
+<hr/>
 ###### Original Plugin
 This awesome jQuery plugin is developed by **PragmaticMates**. <br>
 For more Advanced Usages, please check the **demo page** or visit the [**official website**](http://www.jqueryscript.net/time-clock/Modern-Circular-jQuery-Countdown-Timer-Plugin-Final-Countdown.html).
